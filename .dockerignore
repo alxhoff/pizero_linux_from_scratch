@@ -1,0 +1,6 @@
+boot/
+build/
+kernel/
+rootfs/
+u-boot/
+sd-card.img

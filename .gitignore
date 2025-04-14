@@ -1,0 +1,8 @@
+kernel
+build
+u-boot
+tags
+boot
+rootfs
+dt
+*.img
